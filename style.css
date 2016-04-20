@@ -1,0 +1,177 @@
+body {
+    margin:0px;
+    padding:0px;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 15px;
+}
+
+.bandeau-blanc {
+    background-color: white;
+    height:71px;
+   
+}
+
+.bandeau-vert {
+    margin: 0 auto;
+    background-color: #b5ce00;
+    width:1200px;
+    height:45px;
+}
+
+.bandeau-vert ul {
+   margin-top:0px;
+   margin-bottom:0px;
+   
+}
+
+.bandeau-vert ul li {
+    display:inline-block;
+    padding-top:15px;
+    margin-right:60px;   
+}
+
+.bandeau-vert ul li a {
+    text-decoration: none;
+    color:white;
+    
+}
+
+.voteforme {
+    padding : 10px;
+    background-color: #f2f2f2;
+    height:395px;
+}
+
+.voteforme img {
+    margin: 0 auto;
+    margin-top : 30px; 
+    display:block;
+    width:1200px;
+    height: 336px;
+}
+
+.container {
+    
+    position:relative;
+    margin: 0 auto;
+    width:1200px;
+    
+    
+}
+
+
+
+
+.mobile {
+    margin-top:50px;
+    width: 678px;
+    display:flex;
+    flex-direction: row;
+}
+
+
+
+
+
+#couleur-mobile{
+   
+   padding:10px;
+   background-color:#f2ab35;
+   position:absolute;
+   left:15px;
+   top:30px;
+   color:white;
+}
+
+#couleur-application {
+  
+   padding:10px;
+   background-color:#b5ce00;
+   position:absolute;
+   left:15px;
+   top:318px;
+   color:white;
+}
+
+#couleur-mattress {
+  
+   padding:10px;
+   background-color:#b5ce00;
+   position:absolute;
+   left:15px;
+   top:606px;
+   color:white;
+}
+
+
+
+
+.content {
+    margin-left: 30px;
+}
+
+hr {
+    margin-left:0px;
+    margin-top:50px;
+    display:block;
+    width:690px;
+    color:#fcfcfc;
+}
+
+
+.sociaux {
+  margin:0px;
+  float:right;
+  width:350px;
+    
+}
+
+.pub {
+    float:left;
+    width: 681px;
+    margin:0px
+}
+
+.sociaux {
+    border-left: 1px solid #f2f2f2;
+}
+
+.sociaux h3 {
+    padding:10px;
+    background-color:#b5ce00;
+    color:white;
+}
+
+.lien {
+    padding:0;
+}
+
+.lien li {
+    display:inline-block;
+    margin-right: 10px;
+}
+
+.ident {
+    padding:10px;
+    background-color:#b5ce00;
+    color:white;
+}
+
+.formulaire input, label {
+    margin:10px 0;
+}
+
+
+.submit {
+    height:50px;
+    width: 100px;
+}
+
+#email {
+    margin-right:15px;
+}
+
+.label {
+    margin-right: 35px;
+}
+
